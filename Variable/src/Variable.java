@@ -5,6 +5,7 @@
  *
  * 변수는 마치 (사람이 쓰는 언어) 자연어에서 대명사와 비슷한 역할을 한다.
  *
+ * Created by gunny on 2017. 6. 19..
  */
 public class Variable {
 
@@ -54,7 +55,7 @@ public class Variable {
         System.out.println(string1 + string2);
 
         /*
-            자바는 자바 스크립트에 비해 엄격한 것을 선호한다. 
+            자바는 자바 스크립트에 비해 엄격한 것을 선호한다.
          */
 
         /*
