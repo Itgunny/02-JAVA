@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="925f64d3-e230-4fd5-a7c0-e1f84ea3df97" name="Default" comment="" />
+    <list default="true" id="81e3161d-8345-4ee0-844d-d9cfa3677332" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,31 +16,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CalculatorDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CalculatorDemo.java">
+      <file leaf-file-name="CalculatorDemo1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CalculatorDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
               <folding>
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculatorDemo2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CalculatorDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-              <folding>
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,8 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CalculatorDemo.java" />
-        <option value="$PROJECT_DIR$/src/CalculatorDemo2.java" />
+        <option value="$PROJECT_DIR$/src/CalculatorDemo1.java" />
       </list>
     </option>
   </component>
@@ -95,25 +79,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ClassAndInstance" />
+              <option name="myItemId" value="InitializerAndConstructor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ClassAndInstance" />
+              <option name="myItemId" value="InitializerAndConstructor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ClassAndInstance" />
+              <option name="myItemId" value="InitializerAndConstructor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ClassAndInstance" />
+              <option name="myItemId" value="InitializerAndConstructor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -121,29 +107,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CalculatorDemo2.java" />
+              <option name="myItemId" value="CalculatorDemo1.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassAndInstance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ClassAndInstance" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,7 +422,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ClassAndInstance" />
+      <module name="InitializerAndConstructor" />
       <envs />
       <method />
     </configuration>
@@ -532,17 +502,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="925f64d3-e230-4fd5-a7c0-e1f84ea3df97" name="Default" comment="" />
-      <created>1498114560460</created>
+      <changelist id="81e3161d-8345-4ee0-844d-d9cfa3677332" name="Default" comment="" />
+      <created>1499651142183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1498114560460</updated>
-      <workItem from="1498114561684" duration="2324000" />
+      <updated>1499651142183</updated>
+      <workItem from="1499651143504" duration="553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2324000" />
+    <option name="totallyTimeSpent" value="553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="960" height="1125" extended-state="0" />
@@ -589,28 +559,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CalculatorDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/CalculatorDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
           <folding>
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CalculatorDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
           </folding>
         </state>
       </provider>
